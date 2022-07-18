@@ -13,12 +13,9 @@ body {
 
 }
 
-@-ms-viewport{
-     width: device-width;
-   }
 
-   images.logo{
-     max-width: 31.333%;
-            padding: 0 10px;
-            height: 240px;
+
+   .logo{
+          position: relative;
+          left: 185px;
    }
