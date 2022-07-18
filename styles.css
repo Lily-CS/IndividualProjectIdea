@@ -15,3 +15,7 @@ body {
 @-ms-viewport{
      width: device-width;
    }
+
+   #center {
+     background-position: 900cm;
+     }
