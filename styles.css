@@ -3,6 +3,7 @@
 
 body {
      height: 100%;
+     background-position: 900%;
      background:linear-gradient(
           to right,
           white 0%,
@@ -16,6 +17,6 @@ body {
      width: device-width;
    }
 
-   #center {
-     background-position: 900cm;
-     }
+   .photo{
+     left: 20px;
+   }
