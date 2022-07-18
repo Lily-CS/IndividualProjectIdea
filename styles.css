@@ -17,6 +17,8 @@ body {
      width: device-width;
    }
 
-   .photo{
-     left: 100px;
+   images.logo{
+     max-width: 31.333%;
+            padding: 0 10px;
+            height: 240px;
    }
