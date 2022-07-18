@@ -11,3 +11,7 @@ body {
           rgb(249, 194, 113) 100%;
 
 }
+
+@-ms-viewport{
+     width: device-width;
+   }
